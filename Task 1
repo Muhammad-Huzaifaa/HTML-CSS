@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My first webpage</title>
+    <style>
+      img {
+        width: 150px;
+        border-radius: 75px;
+        float: left;
+        margin-right: 20px;
+      }
+      p.username {
+        font-weight: bold;
+      }
+    </style>
+  </head>
+  <body>
+    <img src="images/selfie pic.PNG" />
+    <p class="username">@huzaifa.yahoo</p>
+    <p>Good evening everybody</p>
+  </body>
+</html>
